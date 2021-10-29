@@ -51,8 +51,8 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/%EC%9B%85%EC%A4%80-%EC%B5%9C-27290a1ba/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           ""
-  resume_medium_url:            ""
+#   resume_website_url:           ""
+#   resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings
